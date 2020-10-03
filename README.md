@@ -62,7 +62,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-![Messaouddhia's github stats](https://github-readme-stats.vercel.app/api?username=messaouddhia&show_icons=true&theme=onedark)
+[Messaouddhia's github stats](https://github-readme-stats.vercel.app/api?username=messaouddhia&show_icons=true&theme=onedark)
 </details>
 
 [twitter]: https://twitter.com/iLynXGaming_
