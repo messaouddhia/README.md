@@ -62,7 +62,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-![Messaouddhia's github stats](https://github-readme-stats.vercel.app/api?username=messaouddhia&show_icons=true&theme=radical)
+
+  <img align="left" alt="Messaouddhia's github stats" src="https://github-readme-stats.vercel.app/api?username=messaouddhia&show_icons=true&theme=radical" />
 
 </details>
 
