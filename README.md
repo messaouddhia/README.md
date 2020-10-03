@@ -62,8 +62,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-
+![Messaouddhia's github stats](https://github-readme-stats.vercel.app/api?username=messaouddhia&show_icons=true&theme=onedark)
 </details>
 
 [twitter]: https://twitter.com/iLynXGaming_
@@ -75,4 +74,4 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
-![Messaouddhia's github stats](https://github-readme-stats.vercel.app/api?username=messaouddhia&show_icons=true&theme=onedark)
+
