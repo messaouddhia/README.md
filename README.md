@@ -5,7 +5,7 @@
 
 - 🔭 I  Have small Python,C++, C#, HTML, CSS, LUA, JS background.
 - 🌱 I’m currently learning Python and getting into AI
-- 🥅 2020 Goals: Starting projects that will help me in the future, basically growing my portfolio
+- 🥅 2021 Goals: Starting projects that will help me in the future, basically growing my portfolio
 - ⚡ I love Gaming, learning a little bit of unity
 
 ### Spotify Playing 🎧
