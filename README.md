@@ -3,10 +3,10 @@
 
 ## I'm a Student, Developer, and Tunisian!!
 
-- 🔭 I  learned python, lua and some C++!
-- 🌱 I’m currently learning HTML,CSS,JS 
-- 🥅 2020 Goals: Start making my own projects
-- ⚡ I love Gaming
+- 🔭 I  Have small C++, C#, HTML, CSS, LUA, JS background.
+- 🌱 I’m currently learning Python and getting into AI
+- 🥅 2020 Goals: Starting projects that will help me in the future, basically growing my portfolio
+- ⚡ I love Gaming, learning a little bit of unity
 
 ### Spotify Playing 🎧
 
